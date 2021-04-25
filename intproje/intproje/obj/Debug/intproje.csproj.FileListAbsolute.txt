@@ -1,0 +1,15 @@
+D:\KODLAMA\Form\intproje\intproje\bin\Debug\intproje.exe.config
+D:\KODLAMA\Form\intproje\intproje\bin\Debug\intproje.exe
+D:\KODLAMA\Form\intproje\intproje\bin\Debug\intproje.pdb
+D:\KODLAMA\Form\intproje\intproje\obj\Debug\intproje.csprojAssemblyReference.cache
+D:\KODLAMA\Form\intproje\intproje\obj\Debug\intproje.Form1.resources
+D:\KODLAMA\Form\intproje\intproje\obj\Debug\intproje.Properties.Resources.resources
+D:\KODLAMA\Form\intproje\intproje\obj\Debug\intproje.csproj.GenerateResource.cache
+D:\KODLAMA\Form\intproje\intproje\obj\Debug\intproje.csproj.CoreCompileInputs.cache
+D:\KODLAMA\Form\intproje\intproje\obj\Debug\intproje.exe
+D:\KODLAMA\Form\intproje\intproje\obj\Debug\intproje.pdb
+D:\KODLAMA\Form\intproje\intproje\obj\Debug\intproje.dragform.resources
+D:\KODLAMA\Form\intproje\intproje\bin\Debug\HtmlAgilityPack.dll
+D:\KODLAMA\Form\intproje\intproje\bin\Debug\HtmlAgilityPack.pdb
+D:\KODLAMA\Form\intproje\intproje\bin\Debug\HtmlAgilityPack.xml
+D:\KODLAMA\Form\intproje\intproje\obj\Debug\intproje.csproj.CopyComplete
